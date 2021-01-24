@@ -1,0 +1,16 @@
+{
+  "Example":{
+    "basename":"example-component",
+    "path":"./ExampleComponent.vue",
+    "props":{
+    }
+  },
+  "TextComponent":{
+    "basename":"text-component",
+    "path":"./Text.vue",
+    "props":{
+      "textStyles": "blue"
+      
+    }
+  }
+}
